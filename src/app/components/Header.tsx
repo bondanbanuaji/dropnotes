@@ -1,16 +1,16 @@
-import React from "react";
-import HomePage from "../pages/HomePage/HomePage";
-export default class Header extends React.Component{
-  constructor(props: {}){
-    super(props)
-    this.state = {
-      headervalue: "Teks di dalam Header",
-    }
-  }
-  render(){
+"use client";
 
-    return(
-      <HomePage data={this.state.headervalue}/>
-    );
-  }
+import Link from 'next/link';
+import React from 'react';
+
+export default function Header() {
+  return (
+    <header className='bg-white p-4'>
+        <div className='flex justify-center itemss-center mx-auto container'>
+          <h1 className='text-lg'>
+            Header
+          </h1>
+        </div>
+    </header>
+  )
 }
