@@ -1,0 +1,14 @@
+"use client";
+import React from 'react';
+
+export default function Footer() {
+  return (
+    <footer className='bg-gray-800 text-white p-4'>
+      <div className='flex justify-center items-center mx-auto container'>
+        <p>
+          ini footer bro
+        </p>
+      </div>
+    </footer>
+  );
+}
