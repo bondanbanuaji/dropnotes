@@ -17,7 +17,7 @@ Pengguna individu seperti:
 - Mahasiswa
 - Profesional
 - Peneliti
-- Siapa pun yang membutuhkan tempat terpusat untuk mencatat ide, materi kuliah, atau dokumentasi proyek
+- Siapa pun yang membutuhkan tempaat terpusat untuk mencatat ide, materi kuliah, atau dokumentasi proyek
 
 Kebutuhan utama: **struktur folder/hierarki yang kuat** untuk mencegah informasi hilang atau tidak terorganisir.
 
